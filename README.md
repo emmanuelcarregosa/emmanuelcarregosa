@@ -21,7 +21,7 @@
 Data Platform Engineer with 8+ years across retail, fintech, and fuel/convenience. I build the systems other teams rely on: ingestion, data contracts, lineage, and the internal tooling that makes pipelines cheap to write and safe to run.
 
 - 🧪 Built internal tooling that validates **data contracts** (type, size, nullability, naming conventions) and tracks **lineage** across integrations, replacing weeks of manual spreadsheet review with executable checks. Publication is gated: nothing invalid reaches the lakehouse.
-- ⚙️ Background leading **event-driven systems at scale**: a platform processing ~15M records per month and 6,000+ data subject requests per year, consistently under a 4-day response against a 15-day legal SLA.
+- ⚙️ Background leading **event-driven systems at scale**: tech lead of a privacy engineering squad owning 6+ production applications, including a consent orchestration platform answering **6,000+ data subject requests per year** consistently under 4 days against a 15-day legal SLA.
 - 🔄 Led an architectural refactor from polling-based ingestion to fully event-driven across 6 downstream systems (parallelism redesign, API-based consumption).
 - 🌎 Remote-first, international. Focused on **data platform**, **data contracts** and **data reliability** engineering.
 
